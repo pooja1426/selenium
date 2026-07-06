@@ -1,0 +1,11 @@
+com\selenium\Amazon_home_page_object.class
+com\selenium\LaunchBrowser.class
+com\selenium\Makemytriplaunch.class
+com\selenium\DragandDropFrame.class
+com\selenium\Instantiatenewbrowser.class
+com\commonmethods\GuiMethods.class
+com\Instantiatebrowser.class
+com\selenium\Instantiatebrowser.class
+com\commonmethods\APIMethods.class
+com\commonmethods\utilities.class
+com\selenium\Handlebrowser.class

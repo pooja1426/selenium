@@ -1,0 +1,8 @@
+
+Amazon_Locators:
+   Category_dd_Xpath: //label[@id="searchDropdownDescription"]/../..
+   Category_options_Xpath: //label[@id="searchDropdownDescription"]/../..//option
+   Search_tb_Xpath: //input[@id="twotabsearchtextbox"]
+   Suggestion_options_Xpath: //div[contains(@id,"sac-suggestion-row-")]//span[@class="s-heavy"]
+   Search_button_Xpath: //span[@aria-label="Go"]
+   Search_validation_text_Xpath: //span[@class="a-color-state a-text-bold"]

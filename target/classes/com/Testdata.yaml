@@ -1,0 +1,7 @@
+Amazon_Test_Data:
+  URL: https://www.amazon.in/
+  Product_Category: Appliances
+  Product_To_Search: Pixel
+  Product_Text_To_Select: Art
+  Product_Search_Validation_text: '"PIXEL"'
+
